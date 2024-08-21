@@ -4,5 +4,23 @@ body{
   background-image: url(https://media.istockphoto.com/id/516329534/es/foto/%C3%BAltima-paja.jpg?s=612x612&w=0&k=20&c=vbKUCUrenFoM7mi-Cfw1oTSzsjCYRaNQ2dueQE6hwnY=);
   background-image: no-repeat;
   background-size: cover;
-  background-position: center;
+  
+}
+form{
+background-color: rgb(254, 254, 199);
+box-sizing: border-box;
+padding-left: 3%;
+padding-right: 3%;
+padding-bottom: 3%;
+border-radius: 20px;
+}
+
+.title{
+  font-size: 50px;
+  text-align: center;
+}
+
+.list{
+  font-size: xx-large;
+padding-left: 300px;
 }
