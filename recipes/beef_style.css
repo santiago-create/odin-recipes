@@ -7,12 +7,14 @@ body{
 }
 
 .form{
-  background-color: azure;
+  background-color: rgba(254, 255, 173, 0.5);
   box-sizing: border-box;
   padding-left: 3%;
   padding-right: 3%;
   padding-bottom: 3%;
   border-radius: 20px;
+  margin:70px;
+  border: 10px solid black
 }
 
 #title{

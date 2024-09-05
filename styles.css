@@ -7,12 +7,16 @@ body{
   
 }
 form{
-background-color: rgb(254, 254, 199);
+background-color: rgba(255, 255, 255, 50%);
 box-sizing: border-box;
 padding-left: 3%;
 padding-right: 3%;
 padding-bottom: 3%;
 border-radius: 20px;
+margin-right: 200px;
+margin-left: 200px;
+margin-top: 100px;
+border: 8px solid black;
 }
 
 .title{
@@ -22,5 +26,5 @@ border-radius: 20px;
 
 .list{
   font-size: xx-large;
-padding-left: 300px;
+padding-left: 200px;
 }
